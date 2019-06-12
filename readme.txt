@@ -14,4 +14,4 @@ this is new 3
 >>>>>>> dev
 
 
-thas is dev 1 2
+thas is dev 1 2 3
